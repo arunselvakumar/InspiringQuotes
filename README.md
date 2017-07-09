@@ -92,3 +92,5 @@ You are thinking, not feeling .
 I guess they are both things, that are never going to happen
 
 Most people fail to see the real me
+
+Is there a single recipe for great speech? Of course not.  But there are some essential ingredients.
