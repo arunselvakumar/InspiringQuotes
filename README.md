@@ -94,3 +94,9 @@ I guess they are both things, that are never going to happen
 Most people fail to see the real me
 
 Is there a single recipe for great speech? Of course not.  But there are some essential ingredients.
+
+It is said that across the border lives my enemy. But when I observed, I found him similar to me.
+
+I got a chance to know about your country. And I find it nothing different than my country. Here there is same sunrise and same sunset. My country is same as your country
+
+Pain is inevitable, suffering is optional.
