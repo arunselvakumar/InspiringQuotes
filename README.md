@@ -100,3 +100,9 @@ It is said that across the border lives my enemy. But when I observed, I found h
 I got a chance to know about your country. And I find it nothing different than my country. Here there is same sunrise and same sunset. My country is same as your country
 
 Pain is inevitable, suffering is optional.
+
+Your number one mission as a speaker is to take something that matters deeply to you and to rebuild it inside the minds of your listeners.
+
+Knowledge can't be pushed into a brain, it has to be pulled in.
+
+Hearing a talk is completely different thing from reading an essay.  It's not just the words.  Not at all.  It's the person delivering the words. To make an impact, there has to be a human connection.  You can give the most brilliant talk with crystal clear explanations and laser sharp logic but if you don't connect with the audience it just won't land. 
