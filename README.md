@@ -112,3 +112,5 @@ Fools learn from experience. I prefer to learn from the experience of others.
 Knowledge is only good if you use it.
 
 Read as much as you possibly can — but never forget to apply what you’ve learned because that is what counts the most. You put in many hours to read books, make sure you get something out of it.
+
+Mistakes are always forgivable, if one has the courage to admit them
