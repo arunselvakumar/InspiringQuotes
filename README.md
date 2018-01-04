@@ -106,3 +106,9 @@ Your number one mission as a speaker is to take something that matters deeply to
 Knowledge can't be pushed into a brain, it has to be pulled in.
 
 Hearing a talk is completely different thing from reading an essay.  It's not just the words.  Not at all.  It's the person delivering the words. To make an impact, there has to be a human connection.  You can give the most brilliant talk with crystal clear explanations and laser sharp logic but if you don't connect with the audience it just won't land. 
+
+Fools learn from experience. I prefer to learn from the experience of others.
+
+Knowledge is only good if you use it.
+
+Read as much as you possibly can — but never forget to apply what you’ve learned because that is what counts the most. You put in many hours to read books, make sure you get something out of it.
