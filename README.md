@@ -114,3 +114,7 @@ Knowledge is only good if you use it.
 Read as much as you possibly can — but never forget to apply what you’ve learned because that is what counts the most. You put in many hours to read books, make sure you get something out of it.
 
 Mistakes are always forgivable, if one has the courage to admit them
+
+Bad developers blame customers for not using the product “correctly.” A bad developer fails to take ownership and responsibility for the entire product and bugs. They make sure everyone knows exactly who was responsible when a bug was created by someone else.
+
+Your attitude, not your aptitude, will determine your altitude.
