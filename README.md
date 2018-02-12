@@ -118,3 +118,5 @@ Mistakes are always forgivable, if one has the courage to admit them
 Bad developers blame customers for not using the product “correctly.” A bad developer fails to take ownership and responsibility for the entire product and bugs. They make sure everyone knows exactly who was responsible when a bug was created by someone else.
 
 Your attitude, not your aptitude, will determine your altitude.
+
+What happens is not important as how you react to what happens
