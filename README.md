@@ -120,3 +120,5 @@ Bad developers blame customers for not using the product “correctly.” A bad 
 Your attitude, not your aptitude, will determine your altitude.
 
 What happens is not important as how you react to what happens
+
+ the biggest reason why people do this is that they underestimate the work and overestimate their capabilities.
