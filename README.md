@@ -3,6 +3,8 @@ Features of a good developer: humility (if there's a bug, it's probably in your 
 
 For example, while we usually have dedicated QAs on our teams, we consider quality to be everyone’s responsibility.
 
+Nothing at Facebook is somebody else’s problem
+
 Living in Bubble.
 
 You probably can't change the world, but you can change someone's world
