@@ -1,6 +1,8 @@
 
 Features of a good developer: humility (if there's a bug, it's probably in your code); curiosity (you *will* need to keep learning new stuff); persistence (it's not going to work first time); and taking the time to read (blog posts, questions, bug reports, documentation...)
 
+For example, while we usually have dedicated QAs on our teams, we consider quality to be everyone’s responsibility.
+
 Living in Bubble.
 
 You probably can't change the world, but you can change someone's world
