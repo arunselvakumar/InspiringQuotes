@@ -1,3 +1,6 @@
+
+Write to express, not to impress.
+
 You might be successful someday, but this gratitude defines how successful you are as a person.
 
 Features of a good developer: humility (if there's a bug, it's probably in your code); curiosity (you *will* need to keep learning new stuff); persistence (it's not going to work first time); and taking the time to read (blog posts, questions, bug reports, documentation...)
