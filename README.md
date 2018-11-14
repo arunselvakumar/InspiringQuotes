@@ -132,4 +132,8 @@ Your attitude, not your aptitude, will determine your altitude.
 
 What happens is not important as how you react to what happens
 
- the biggest reason why people do this is that they underestimate the work and overestimate their capabilities.
+the biggest reason why people do this is that they underestimate the work and overestimate their capabilities.
+
+All self-help and productivity advice ultimately boils down to the same thing: A little planning. Prioritization. Taking action on the hard stuff. Procrastinating on the stuff that doesn’t matter. Finishing.
+
+That’s it. It doesn’t need to be more complicated than that.
