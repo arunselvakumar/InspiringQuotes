@@ -1,3 +1,4 @@
+Past is immutable, no matter how painful it is we can't change things.
 
 Write to express, not to impress.
 
